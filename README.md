@@ -83,10 +83,10 @@ Mascot is licensed under the [MIT License](LICENSE). do whatever you want with t
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=Hotaro26%2FMascot&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=Hotaro26%2FMascot&type=timeline&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=date&theme=dark&legend=top-left&sealed_token=PbH68iOU-Q_qMTaqKhcUEkhGfRr6-3bso9AQ0M9V6woOeBoTM04E6LvdCzwys0C7lJKqhNGQzBsgySklq-o2JVmUSVbDWZz5x04gdiuDDZ0cRU6ItAtt6my08j-ybSqPtkOZYuJox4KC2Tznc7tSl4hAKU-30RflwYasq7XtDTiJ6jvFeU0s5ccEEAtv" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=date&legend=top-left&sealed_token=PbH68iOU-Q_qMTaqKhcUEkhGfRr6-3bso9AQ0M9V6woOeBoTM04E6LvdCzwys0C7lJKqhNGQzBsgySklq-o2JVmUSVbDWZz5x04gdiuDDZ0cRU6ItAtt6my08j-ybSqPtkOZYuJox4KC2Tznc7tSl4hAKU-30RflwYasq7XtDTiJ6jvFeU0s5ccEEAtv" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=date&legend=top-left&sealed_token=PbH68iOU-Q_qMTaqKhcUEkhGfRr6-3bso9AQ0M9V6woOeBoTM04E6LvdCzwys0C7lJKqhNGQzBsgySklq-o2JVmUSVbDWZz5x04gdiuDDZ0cRU6ItAtt6my08j-ybSqPtkOZYuJox4KC2Tznc7tSl4hAKU-30RflwYasq7XtDTiJ6jvFeU0s5ccEEAtv" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=timeline&theme=dark&legend=top-left&sealed_token=IyRgbpCCPvdLK8Kcoi5aPisjrrZSjNS-WUzXWdGHs3XEPKKvaiMgX-HOunizX84cdYQgeZvpMuCWWJGzypbtQg3FW_ZfHU9tzU5WodhR2E7SzdpIuumG-Iq05C0cnTL2p7dogkYBbjUBV3t6pXvSpLq-7Gc45zpLgJoBqpNvV2biesr863t_QTOX9A2_" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=timeline&legend=top-left&sealed_token=IyRgbpCCPvdLK8Kcoi5aPisjrrZSjNS-WUzXWdGHs3XEPKKvaiMgX-HOunizX84cdYQgeZvpMuCWWJGzypbtQg3FW_ZfHU9tzU5WodhR2E7SzdpIuumG-Iq05C0cnTL2p7dogkYBbjUBV3t6pXvSpLq-7Gc45zpLgJoBqpNvV2biesr863t_QTOX9A2_" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=timeline&legend=top-left&sealed_token=IyRgbpCCPvdLK8Kcoi5aPisjrrZSjNS-WUzXWdGHs3XEPKKvaiMgX-HOunizX84cdYQgeZvpMuCWWJGzypbtQg3FW_ZfHU9tzU5WodhR2E7SzdpIuumG-Iq05C0cnTL2p7dogkYBbjUBV3t6pXvSpLq-7Gc45zpLgJoBqpNvV2biesr863t_QTOX9A2_" />
  </picture>
 </a>
