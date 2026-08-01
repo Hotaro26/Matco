@@ -23,6 +23,7 @@ import com.hotaro.strictclock.ui.theme.*
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SettingsScreen(
+    onNavigateToWakeUpStreak: () -> Unit = {},
     onNavigateToColorScheme: () -> Unit = {},
     onNavigateToThemeMode: () -> Unit = {},
     onNavigateToQrManagement: () -> Unit = {},
@@ -79,6 +80,7 @@ fun SettingsScreen(
             // Top Cards
             Row(modifier = Modifier.fillMaxWidth()) {
                 Card(
+                    onClick = onNavigateToWakeUpStreak,
                     modifier = Modifier.weight(1f).height(140.dp),
                     shape = RoundedCornerShape(24.dp),
                     colors = CardDefaults.cardColors(containerColor = surfaceContainerHighDark)

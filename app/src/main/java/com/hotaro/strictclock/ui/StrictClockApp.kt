@@ -164,7 +164,16 @@ fun StrictClockApp(isWakeUp: Boolean = false, challengeType: String = "None", qr
                                     val yesterday = java.text.SimpleDateFormat("yyyy-MM-dd", java.util.Locale.getDefault()).format(calendar.time)
                                     
                                     val newStreak = if (lastDate == yesterday) currentStreak + 1 else 1
-                                    prefs.edit().putInt("wake_up_streak", newStreak).putString("last_streak_date", today).apply()
+                                    
+                                    val historySet = prefs.getStringSet("wake_up_history", setOf())?.toMutableSet() ?: mutableSetOf()
+                                    val nowStr = java.text.SimpleDateFormat("yyyy-MM-dd HH:mm", java.util.Locale.getDefault()).format(java.util.Date())
+                                    historySet.add(nowStr)
+                                    
+                                    prefs.edit()
+                                        .putInt("wake_up_streak", newStreak)
+                                        .putString("last_streak_date", today)
+                                        .putStringSet("wake_up_history", historySet)
+                                        .apply()
                                 }
                                 
                                 activity.finish()
@@ -203,6 +212,7 @@ fun StrictClockApp(isWakeUp: Boolean = false, challengeType: String = "None", qr
                     }
                     "Timer" -> TimerScreen()
                     "Settings" -> SettingsScreen(
+                        onNavigateToWakeUpStreak = { currentScreen = "WakeUpStreak" },
                         onNavigateToColorScheme = { currentScreen = "ColorScheme" },
                         onNavigateToThemeMode = { currentScreen = "ThemeMode" },
                         onNavigateToQrManagement = { currentScreen = "QrManagement" },
@@ -217,6 +227,7 @@ fun StrictClockApp(isWakeUp: Boolean = false, challengeType: String = "None", qr
                         onNavigateToClockFormat = { currentScreen = "ClockFormat" }
                     )
                     "AppIcons" -> AppIconsScreen(onBack = { currentScreen = "Settings" })
+                    "WakeUpStreak" -> WakeUpStreakScreen(onBack = { currentScreen = "Settings" })
                     "MathSettings" -> MathSettingsScreen(onBack = { currentScreen = "Settings" })
                     "PuzzleSettings" -> PuzzleSettingsScreen(onBack = { currentScreen = "Settings" })
                     "FlashbangSettings" -> FlashbangSettingsScreen(onBack = { currentScreen = "Settings" })

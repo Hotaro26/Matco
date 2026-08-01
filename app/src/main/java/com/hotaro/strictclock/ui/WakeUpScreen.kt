@@ -301,13 +301,19 @@ fun ColumnScope.MathChallengeView(operations: String, difficulty: String, zenMod
                                     }
                                 },
                                 modifier = Modifier.weight(1f).height(56.dp),
+                                contentPadding = PaddingValues(0.dp),
                                 colors = ButtonDefaults.buttonColors(
                                     containerColor = if (key == "OK") primaryDark else surfaceContainerHighestDark,
                                     contentColor = if (key == "OK") onPrimaryDark else onSurfaceDark
                                 ),
                                 shape = RoundedCornerShape(16.dp)
                             ) {
-                                Text(key, fontSize = 24.sp, fontWeight = FontWeight.Bold)
+                                Text(
+                                    text = key, 
+                                    fontSize = 20.sp, 
+                                    fontWeight = FontWeight.Bold,
+                                    maxLines = 1
+                                )
                             }
                         }
                     }
