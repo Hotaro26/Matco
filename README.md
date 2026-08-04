@@ -80,13 +80,21 @@ just make sure your code isn't super messy and you're good to go.
 ### License
 
 Mascot is licensed under the [MIT License](LICENSE). do whatever you want with the code, just don't blame me if you still sleep through your math problems.
+## Donate
+You can support Miko development through [kofi](buymeacoffee.com/oi.hotaro)
+
+<a href="buymeacoffee.com/oi.hotaro)
+">
+  <img src="https://github.com/user-attachments/assets/f62638ee-9ad9-42c6-b275-a620b4cabe25" width="128px">
+</a>
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=Hotaro26%2FMascot&type=timeline&legend=top-left">
+<a href="https://www.star-history.com/?repos=Hotaro26%2FMascot&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=timeline&theme=dark&legend=top-left&sealed_token=IyRgbpCCPvdLK8Kcoi5aPisjrrZSjNS-WUzXWdGHs3XEPKKvaiMgX-HOunizX84cdYQgeZvpMuCWWJGzypbtQg3FW_ZfHU9tzU5WodhR2E7SzdpIuumG-Iq05C0cnTL2p7dogkYBbjUBV3t6pXvSpLq-7Gc45zpLgJoBqpNvV2biesr863t_QTOX9A2_" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=timeline&legend=top-left&sealed_token=IyRgbpCCPvdLK8Kcoi5aPisjrrZSjNS-WUzXWdGHs3XEPKKvaiMgX-HOunizX84cdYQgeZvpMuCWWJGzypbtQg3FW_ZfHU9tzU5WodhR2E7SzdpIuumG-Iq05C0cnTL2p7dogkYBbjUBV3t6pXvSpLq-7Gc45zpLgJoBqpNvV2biesr863t_QTOX9A2_" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=timeline&legend=top-left&sealed_token=IyRgbpCCPvdLK8Kcoi5aPisjrrZSjNS-WUzXWdGHs3XEPKKvaiMgX-HOunizX84cdYQgeZvpMuCWWJGzypbtQg3FW_ZfHU9tzU5WodhR2E7SzdpIuumG-Iq05C0cnTL2p7dogkYBbjUBV3t6pXvSpLq-7Gc45zpLgJoBqpNvV2biesr863t_QTOX9A2_" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=date&theme=dark&legend=top-left&sealed_token=io7mcINMUHwkTPuKBTsdhZg7GSVRb8gxj-KYJdXS-AylonxnUJ4x7J9YNKNWuUplJGUtYWxi9QaQaamYIWACR1RqXpMGZ1q5TA75t7EY1mx-wopySy98S5kTYfXQj80C33P4gQlkq5U34p5FCqcgmYoTnW1H2gOWqD9ORGAO1UyNiDGUrmfAfTW2Rjzn" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=date&legend=top-left&sealed_token=io7mcINMUHwkTPuKBTsdhZg7GSVRb8gxj-KYJdXS-AylonxnUJ4x7J9YNKNWuUplJGUtYWxi9QaQaamYIWACR1RqXpMGZ1q5TA75t7EY1mx-wopySy98S5kTYfXQj80C33P4gQlkq5U34p5FCqcgmYoTnW1H2gOWqD9ORGAO1UyNiDGUrmfAfTW2Rjzn" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Hotaro26/Mascot&type=date&legend=top-left&sealed_token=io7mcINMUHwkTPuKBTsdhZg7GSVRb8gxj-KYJdXS-AylonxnUJ4x7J9YNKNWuUplJGUtYWxi9QaQaamYIWACR1RqXpMGZ1q5TA75t7EY1mx-wopySy98S5kTYfXQj80C33P4gQlkq5U34p5FCqcgmYoTnW1H2gOWqD9ORGAO1UyNiDGUrmfAfTW2Rjzn" />
  </picture>
 </a>
+
